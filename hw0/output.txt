@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Joey
+   last: McDonald
+email: jpm533@nyu.edu
+leaderboard: jpm
